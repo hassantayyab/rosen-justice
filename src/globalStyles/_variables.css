@@ -1,0 +1,22 @@
+:root {
+	--color-primary: #141728;
+	--color-secondary: #c9ac2b;
+	--color-dark-200: #494c6a;
+	--color-dark: #202439;
+	--color-light-200: #ffffff;
+	--color-light: #eaeaeb;
+	--color-light-700: #b8bac9;
+	--color-transparent: 'transparent';
+
+	/* width for sections */
+	--spread: 70%;
+	/* max-width for sections */
+	--limit: 1300px;
+
+	/* font-weights */
+	--fw-bold: 'bold';
+	--fw-normal: 'normal';
+
+	/* shadow variables */
+	--color-shadow: #00406336;
+}

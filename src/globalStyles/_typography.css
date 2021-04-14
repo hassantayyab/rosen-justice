@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'DM Serif Display';
+	src: url('../fonts/DMSerifDisplay-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'DM Serif Display Italic';
+	src: url('../fonts/DMSerifDisplay-Italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Graphik';
+	src: url('../fonts/Graphik-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Graphik Italic';
+	src: url('../fonts/Graphik-RegularItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}

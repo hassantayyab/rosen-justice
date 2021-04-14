@@ -1,0 +1,86 @@
+html {
+	scroll-behavior: smooth;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	box-sizing: border-box;
+	word-spacing: 1px;
+	font-size: 16px;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section,
+summary,
+canvas {
+	display: block;
+}
+
+img {
+	border-style: none;
+	backface-visibility: hidden;
+	width: 100%;
+	max-width: 100%;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea,
+a {
+	font: inherit;
+}
+
+a {
+	text-decoration: none;
+}
+
+ol,
+ul {
+	list-style: none;
+}
+
+button,
+input {
+	overflow: visible;
+}
+
+button,
+select {
+	text-transform: none;
+}
+
+textarea {
+	height: auto;
+	overflow: auto;
+	text-overflow: ellipsis;
+	resize: none;
+	-webkit-appearance: none;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus,
+[contenteditable='true']:focus,
+video {
+	outline: none;
+}
