@@ -5,7 +5,7 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: "rosen-justice",
-    siteUrl: `https://rosen-justice.com`,
+    siteUrl: `https://rosenjustice.com`,
   },
   plugins: [
     {
